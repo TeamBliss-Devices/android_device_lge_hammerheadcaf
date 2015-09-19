@@ -178,9 +178,8 @@ BOARD_HARDWARE_CLASS := device/lge/hammerheadcaf/cmhw
 EXTENDED_FONT_FOOTPRINT := true
 
 # BlissPop Config Flags
-BLISS_WIPE_CACHES := 0
-TARGET_TC_ROM := 5.1-linaro
-TARGET_TC_KERNEL := 5.1-linaro
+TARGET_TC_ROM := 5.2-linaro
+TARGET_TC_KERNEL := 5.2-linaro
 BLISSIFY := true
 BLISS_O3 := true
 BLISS_STRICT := true
