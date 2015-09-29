@@ -237,7 +237,7 @@ PRODUCT_PACKAGES += \
 
 # I/O Scheduler
 PRODUCT_PROPERTY_OVERRIDES += \
-    sys.io.scheduler=cfq
+    sys.io.scheduler=bfq
 
 # QCOM Perf lib
 PRODUCT_PROPERTY_OVERRIDES += \
