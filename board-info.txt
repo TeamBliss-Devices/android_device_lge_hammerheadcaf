@@ -1,0 +1,2 @@
+require board=hammerheadcaf
+require version-bootloader=HHZ12k

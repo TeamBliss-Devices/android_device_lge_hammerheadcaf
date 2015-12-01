@@ -1,0 +1,14 @@
+[
+ {
+   "remote": "TeamBliss-Devices",
+   "repository": "android_kernel_lge_hammerhead",
+   "target_path": "kernel/lge/hammerheadcaf",
+   "revision": "mm6.0-caf"
+ },
+ {
+  "remote": "TeamBliss-Devices",
+  "repository": "proprietary_vendor_lge_hammerhead",
+  "target_path": "vendor/lge",
+  "revision": "mm6.0"
+ }
+]
